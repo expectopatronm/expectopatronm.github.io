@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shankar Kumar</title>
+    <link>/</link>
+    <description>Recent content on Shankar Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2020 17:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>/posts/about_me/</link>
+      <pubDate>Sun, 05 Apr 2020 14:34:49 +0200</pubDate>
+      
+      <guid>/posts/about_me/</guid>
+      <description>Hello Boyssddfsf</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>/posts/work_experience/</link>
+      <pubDate>Thu, 02 Apr 2020 22:00:00 +0000</pubDate>
+      
+      <guid>/posts/work_experience/</guid>
+      <description>Robert Bosch GmbH Intern at the Bosch Center for Artificial Intelligence (BCAI), Lead AI Enabler for Classical Machine Learning and Deep Learning.
+ Designed a platooning demonstrator of self-driving cars. Presented it at the Bosch AI Conference of 2019, headline of the German newspaper Handelsblatt. Implemented Deep Neural Networks for image classification, object detection, object tracking and segmentation and Logistic Regression for lane planning. Designed an Auto Regressive Integrated Moving Average (ARIMA) and Facebook’s Prophet model for time series analysis, forecasting and backcasting of solar irradiance data.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/posts/intro_projects/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/intro_projects/</guid>
+      <description>Deep Learning Projects  Pose Estiamation with High Resolution Neural Networks Platooning Demonstrator with Deep Learning and Computer Vision Reinforcement Learning with a Four-Legged Spider Genetic Algorithms for Hyperparameter Tuning of Neural Networks  Classical Machine Learning Projects  Similarity Measures for Music Loop Projects in the Music Maker JAM Application Imputing Solar Irradiance Data with ARIMA and Prophet Text Clustering Amazon Product Reviews with K-Means Credit Card Fraud Detection with Isolation Forest Classifier Accelerated Incremental Machine Learning using Support Vector Machines  Natural Language Processing Projects  Just One Context based Word Prediction using Word Embeddings Missing Word Prediction with BERT  Algorithm Projects  Conways Game of Life with MPI Mandelbrot Fractals Accelerated with Numba Travelling Salesman  Embedded System Projects  Intelligent Embedded Prosthetic Controller using Surface EMG Signal Acquistion Railway Track Tracing using Ultrasonics Automated Pill Dispencer  </description>
+    </item>
+    
+    <item>
+      <title>Incremental_svm</title>
+      <link>/posts/projects/classical_machine_learning_projects/incremental_svm/</link>
+      <pubDate>Sun, 05 Apr 2020 17:36:24 +0200</pubDate>
+      
+      <guid>/posts/projects/classical_machine_learning_projects/incremental_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Credit_card_fraud</title>
+      <link>/posts/projects/classical_machine_learning_projects/credit_card_fraud/</link>
+      <pubDate>Sun, 05 Apr 2020 17:29:38 +0200</pubDate>
+      
+      <guid>/posts/projects/classical_machine_learning_projects/credit_card_fraud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jam_test</title>
+      <link>/posts/projects/classical_machine_learning_projects/jam_test/</link>
+      <pubDate>Sun, 05 Apr 2020 17:29:26 +0200</pubDate>
+      
+      <guid>/posts/projects/classical_machine_learning_projects/jam_test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text_clustering</title>
+      <link>/posts/projects/classical_machine_learning_projects/text_clustering/</link>
+      <pubDate>Sun, 05 Apr 2020 17:27:32 +0200</pubDate>
+      
+      <guid>/posts/projects/classical_machine_learning_projects/text_clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar_irradiance</title>
+      <link>/posts/projects/classical_machine_learning_projects/solar_irradiance/</link>
+      <pubDate>Sun, 05 Apr 2020 17:27:10 +0200</pubDate>
+      
+      <guid>/posts/projects/classical_machine_learning_projects/solar_irradiance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>intro</title>
+      <link>/posts/intro/</link>
+      <pubDate>Sun, 05 Apr 2020 14:34:49 +0200</pubDate>
+      
+      <guid>/posts/intro/</guid>
+      <description>this is an intro slide</description>
+    </item>
+    
+    <item>
+      <title>Pose Estimation with High Resolution Neural Networks</title>
+      <link>/posts/projects/deep_learning_projects/pose_estimation/</link>
+      <pubDate>Mon, 30 Mar 2020 23:00:00 +0000</pubDate>
+      
+      <guid>/posts/projects/deep_learning_projects/pose_estimation/</guid>
+      <description>We are interested in the human pose estimation problem with a focus on learning reliable high-resolution representations. Most existing methods recover high-resolution representations from low-resolution representations produced by a high-to-low resolution network. Instead, our proposed network maintains high-resolution representations through the whole process. We start from a high-resolution subnetwork as the first stage, gradually add high-to-low resolution subnetworks one by one to form more stages, and connect the mutli-resolution subnetworks in parallel.</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>/posts/photography/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/photography/</guid>
+      <description>From the pathways of the Roman Colloseum
+                  </description>
+    </item>
+    
+    <item>
+      <title>Platooning Demonstrator with Deep Learning and Computer Vision</title>
+      <link>/posts/projects/deep_learning_projects/platooning/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/projects/deep_learning_projects/platooning/</guid>
+      <description>Originally envisioned as a demonstrator for the Bosch AI CON 2019, the platooning system consists of two cars, a leading car and a following car. The leading car can be driven manually using a PS4 controller and the following car will autonomously follow the leading car.
+In addition to this, the system currently is also capable of Object Tracking, Velocity Estimation by Optical Flow Visual Odometry and Monocular Depth Estimation.</description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning with a Four Legged Spider</title>
+      <link>/posts/projects/deep_learning_projects/reinforcement_spider/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/projects/deep_learning_projects/reinforcement_spider/</guid>
+      <description>to be written soon.</description>
+    </item>
+    
+  </channel>
+</rss>
