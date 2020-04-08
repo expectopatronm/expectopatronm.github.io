@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/work_experience/</loc>
+    <lastmod>2020-04-02T22:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/education_experience/</loc>
+    <lastmod>2020-04-08T04:01:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/intro_projects/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-04-08T04:01:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/projects/classical_machine_learning_projects/incremental_svm/</loc>
+    <lastmod>2020-04-05T17:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/projects/classical_machine_learning_projects/credit_card_fraud/</loc>
+    <lastmod>2020-04-05T17:29:38+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/projects/classical_machine_learning_projects/jam_test/</loc>
+    <lastmod>2020-04-05T17:29:26+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/projects/classical_machine_learning_projects/text_clustering/</loc>
+    <lastmod>2020-04-05T17:27:32+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/projects/classical_machine_learning_projects/solar_irradiance/</loc>
+    <lastmod>2020-04-05T17:27:10+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/projects/deep_learning_projects/pose_estimation/</loc>
+    <lastmod>2020-03-30T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/photography/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/projects/deep_learning_projects/platooning/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/projects/deep_learning_projects/reinforcement_spider/</loc>
+    <lastmod>2020-01-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
