@@ -8,17 +8,22 @@
   </url>
   
   <url>
+    <loc>/posts/education_experience/</loc>
+    <lastmod>2020-04-08T04:01:09+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/intro_projects/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/projects/classical_machine_learning_projects/incremental_svm/</loc>
-    <lastmod>2020-04-05T17:36:24+02:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2020-04-08T04:01:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/posts/projects/classical_machine_learning_projects/incremental_svm/</loc>
     <lastmod>2020-04-05T17:36:24+02:00</lastmod>
   </url>
   

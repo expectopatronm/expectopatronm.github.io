@@ -22,6 +22,17 @@
     </item>
     
     <item>
+      <title>Education</title>
+      <link>/posts/education_experience/</link>
+      <pubDate>Wed, 08 Apr 2020 04:01:09 +0200</pubDate>
+      
+      <guid>/posts/education_experience/</guid>
+      <description>Master of Science, Computer Engineering University of Paderborn Focus areas: Pattern Recognition, Machine Learning, Embedded Systems
+Master’s Thesis: Incremental Machine Learning using Support Vector Machines
+ Designed an embedded machine learning system with Support Vector Machines for tackling Classification and Regression problems on Big Data with accuracies from 82% to 96% Implemented various incremental learning methods for batch and online training with approximations to reduce run time (-65%), memory (-25%) &amp;amp; computational complexity (-15%) Implemented PCA, t-SNE and Parallel Coordinate plots for visualizing high dimensional data and K-Means and Nearest Neighbor clustering methods as a test of classifiability Accelerated training and inference phases by 500% using reconfigurable hardware  [Python] [C/C++] [Verilog] [Scikit-Learn]</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/posts/intro_projects/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>

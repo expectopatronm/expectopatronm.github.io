@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Shankar Kumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2020 17:36:24 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 04:01:09 +0200</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,17 @@
       <guid>/posts/work_experience/</guid>
       <description>Robert Bosch GmbH Intern at the Bosch Center for Artificial Intelligence (BCAI), Lead AI Enabler for Classical Machine Learning and Deep Learning.
  Designed a platooning demonstrator of self-driving cars. Presented it at the Bosch AI Conference of 2019, headline of the German newspaper Handelsblatt. Implemented Deep Neural Networks for image classification, object detection, object tracking and segmentation and Logistic Regression for lane planning. Designed an Auto Regressive Integrated Moving Average (ARIMA) and Facebook’s Prophet model for time series analysis, forecasting and backcasting of solar irradiance data.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>/posts/education_experience/</link>
+      <pubDate>Wed, 08 Apr 2020 04:01:09 +0200</pubDate>
+      
+      <guid>/posts/education_experience/</guid>
+      <description>Master of Science, Computer Engineering University of Paderborn Focus areas: Pattern Recognition, Machine Learning, Embedded Systems
+Master’s Thesis: Incremental Machine Learning using Support Vector Machines
+ Designed an embedded machine learning system with Support Vector Machines for tackling Classification and Regression problems on Big Data with accuracies from 82% to 96% Implemented various incremental learning methods for batch and online training with approximations to reduce run time (-65%), memory (-25%) &amp;amp; computational complexity (-15%) Implemented PCA, t-SNE and Parallel Coordinate plots for visualizing high dimensional data and K-Means and Nearest Neighbor clustering methods as a test of classifiability Accelerated training and inference phases by 500% using reconfigurable hardware  [Python] [C/C++] [Verilog] [Scikit-Learn]</description>
     </item>
     
     <item>
