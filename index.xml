@@ -42,48 +42,57 @@ Master’s Thesis: Incremental Machine Learning using Support Vector Machines
     </item>
     
     <item>
-      <title>Incremental_svm</title>
+      <title>Resume</title>
+      <link>/posts/resume/</link>
+      <pubDate>Wed, 08 Apr 2020 16:35:31 +0200</pubDate>
+      
+      <guid>/posts/resume/</guid>
+      <description>Click here to download</description>
+    </item>
+    
+    <item>
+      <title>Accelerated Incremental Machine Learning using Support Vector Machines</title>
       <link>/posts/projects/classical_machine_learning_projects/incremental_svm/</link>
       <pubDate>Sun, 05 Apr 2020 17:36:24 +0200</pubDate>
       
       <guid>/posts/projects/classical_machine_learning_projects/incremental_svm/</guid>
-      <description></description>
+      <description>Github link</description>
     </item>
     
     <item>
-      <title>Credit_card_fraud</title>
+      <title>Credit Card Fraud Detection with Isolation Forest Classifier</title>
       <link>/posts/projects/classical_machine_learning_projects/credit_card_fraud/</link>
       <pubDate>Sun, 05 Apr 2020 17:29:38 +0200</pubDate>
       
       <guid>/posts/projects/classical_machine_learning_projects/credit_card_fraud/</guid>
-      <description></description>
+      <description>Github link</description>
     </item>
     
     <item>
-      <title>Jam_test</title>
+      <title>Similarity Measures for Music Loop Projects in the Music Maker JAM Application</title>
       <link>/posts/projects/classical_machine_learning_projects/jam_test/</link>
       <pubDate>Sun, 05 Apr 2020 17:29:26 +0200</pubDate>
       
       <guid>/posts/projects/classical_machine_learning_projects/jam_test/</guid>
-      <description></description>
+      <description>Github link</description>
     </item>
     
     <item>
-      <title>Text_clustering</title>
+      <title>Text Clustering Amazon Product Reviews with K-Means</title>
       <link>/posts/projects/classical_machine_learning_projects/text_clustering/</link>
       <pubDate>Sun, 05 Apr 2020 17:27:32 +0200</pubDate>
       
       <guid>/posts/projects/classical_machine_learning_projects/text_clustering/</guid>
-      <description></description>
+      <description>Github link</description>
     </item>
     
     <item>
-      <title>Solar_irradiance</title>
+      <title>Imputing Solar Irradiance Data with ARIMA and Prophet</title>
       <link>/posts/projects/classical_machine_learning_projects/solar_irradiance/</link>
       <pubDate>Sun, 05 Apr 2020 17:27:10 +0200</pubDate>
       
       <guid>/posts/projects/classical_machine_learning_projects/solar_irradiance/</guid>
-      <description></description>
+      <description>Github link</description>
     </item>
     
     <item>
@@ -92,7 +101,8 @@ Master’s Thesis: Incremental Machine Learning using Support Vector Machines
       <pubDate>Mon, 30 Mar 2020 23:00:00 +0000</pubDate>
       
       <guid>/posts/projects/deep_learning_projects/pose_estimation/</guid>
-      <description>We are interested in the human pose estimation problem with a focus on learning reliable high-resolution representations. Most existing methods recover high-resolution representations from low-resolution representations produced by a high-to-low resolution network. Instead, our proposed network maintains high-resolution representations through the whole process. We start from a high-resolution subnetwork as the first stage, gradually add high-to-low resolution subnetworks one by one to form more stages, and connect the mutli-resolution subnetworks in parallel.</description>
+      <description>Github link
+We are interested in the human pose estimation problem with a focus on learning reliable high-resolution representations. Most existing methods recover high-resolution representations from low-resolution representations produced by a high-to-low resolution network. Instead, our proposed network maintains high-resolution representations through the whole process. We start from a high-resolution subnetwork as the first stage, gradually add high-to-low resolution subnetworks one by one to form more stages, and connect the mutli-resolution subnetworks in parallel.</description>
     </item>
     
     <item>
@@ -111,7 +121,8 @@ Master’s Thesis: Incremental Machine Learning using Support Vector Machines
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/projects/deep_learning_projects/platooning/</guid>
-      <description>Originally envisioned as a demonstrator for the Bosch AI CON 2019, the platooning system consists of two cars, a leading car and a following car. The leading car can be driven manually using a PS4 controller and the following car will autonomously follow the leading car.
+      <description>Github link
+Originally envisioned as a demonstrator for the Bosch AI CON 2019, the platooning system consists of two cars, a leading car and a following car. The leading car can be driven manually using a PS4 controller and the following car will autonomously follow the leading car.
 In addition to this, the system currently is also capable of Object Tracking, Velocity Estimation by Optical Flow Visual Odometry and Monocular Depth Estimation.</description>
     </item>
     
@@ -121,7 +132,8 @@ In addition to this, the system currently is also capable of Object Tracking, Ve
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/projects/deep_learning_projects/reinforcement_spider/</guid>
-      <description>to be written soon.</description>
+      <description>Github link
+to be written soon.</description>
     </item>
     
   </channel>
