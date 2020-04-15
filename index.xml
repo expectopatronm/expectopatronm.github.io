@@ -97,7 +97,7 @@ How to Recognize named entities on Twitter with LSTMs.</description>
       
       <guid>/posts/projects/classical_machine_learning_projects/jam_test/</guid>
       <description>Github link
-Abstract The 100 XML project files describe 100 songs which are consisting of parts. Each part has 8 channels and each channel can hold one music loop. Each part and loop has some features (tags) such as name, volume and active. The loops within the channels can be active or inactive. Only the active loops are considered by our network for creating a song.
+The 100 XML project files describe 100 songs which are consisting of parts. Each part has 8 channels and each channel can hold one music loop. Each part and loop has some features (tags) such as name, volume and active. The loops within the channels can be active or inactive. Only the active loops are considered by our network for creating a song.
   Parse the XML files and extract information</description>
     </item>
     
