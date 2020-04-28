@@ -40,7 +40,7 @@ Master’s Thesis: Incremental Machine Learning using Support Vector Machines
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/intro_projects/</guid>
-      <description>Deep Learning Projects  Person Detection, Pose Prediction and Activity Recognition Pipeline Transfer Learning with the Inception V3 Network on the Stanford 40 Actions Dataset Pose Estimation with High Resolution Neural Networks - A Top-Down Approach Pose Estimation with High Resolution Neural Networks - A Bottom-Up Approach Platooning Demonstrator with Deep Learning and Computer Vision Reinforcement Learning with a Four-Legged Spider Genetic Algorithms for Hyperparameter Tuning of Neural Networks  Classical Machine Learning Projects  Similarity Measures for Music Loop Projects in the Music Maker JAM Application Imputing Solar Irradiance Data with ARIMA and Prophet Text Clustering Amazon Product Reviews with K-Means Credit Card Fraud Detection with Isolation Forest Classifier Accelerated Incremental Machine Learning using Support Vector Machines  Natural Language Processing Projects  Predict tags on StackOverflow with linear models Recognize named entities on Twitter with LSTMs Just One Context based Word Prediction using Word Embeddings Missing Word Prediction with BERT  Algorithm Projects  Conways Game of Life with MPI Mandelbrot Fractals Accelerated with Numba Travelling Salesman  Embedded System Projects  Intelligent Embedded Prosthetic Controller using Surface EMG Signal Acquistion Railway Track Tracing using Ultrasonics Automated Pill Dispencer  </description>
+      <description>Deep Learning Projects  Person Detection, Pose Prediction and Activity Recognition Pipeline Transfer Learning with the Inception V3 Network on the Stanford 40 Actions Dataset Pose Estimation with High Resolution Neural Networks - A Top-Down Approach Pose Estimation with High Resolution Neural Networks - A Bottom-Up Approach Platooning Demonstrator with Deep Learning and Computer Vision Reinforcement Learning with a Four-Legged Spider Genetic Algorithms for Hyperparameter Tuning of Neural Networks  Classical Machine Learning Projects  Predicting Likely Home and Work Locations given GPS Coordinates of a person using DBSCAN Clustering Activity Recognition given Accelerometer Data using a Linear Classifier Similarity Measures for Music Loop Projects in the Music Maker JAM Application Imputing Solar Irradiance Data with ARIMA and Prophet Text Clustering Amazon Product Reviews with K-Means Credit Card Fraud Detection with Isolation Forest Classifier Accelerated Incremental Machine Learning using Support Vector Machines  Natural Language Processing Projects  Predict tags on StackOverflow with linear models Recognize named entities on Twitter with LSTMs Just One Context based Word Prediction using Word Embeddings Missing Word Prediction with BERT  Algorithm Projects  Conways Game of Life with MPI Mandelbrot Fractals Accelerated with Numba Travelling Salesman  Embedded System Projects  Intelligent Embedded Prosthetic Controller using Surface EMG Signal Acquistion Railway Track Tracing using Ultrasonics Automated Pill Dispencer  </description>
     </item>
     
     <item>
@@ -115,11 +115,29 @@ The 100 XML project files describe 100 songs which are consisting of parts. Each
     </item>
     
     <item>
+      <title>Activity Recognition given Accelerometer Data using a Linear Classifier</title>
+      <link>/posts/projects/classical_machine_learning_projects/activity_recognition/</link>
+      <pubDate>Sun, 05 Apr 2020 17:27:10 +0200</pubDate>
+      
+      <guid>/posts/projects/classical_machine_learning_projects/activity_recognition/</guid>
+      <description>Github link</description>
+    </item>
+    
+    <item>
       <title>Imputing Solar Irradiance Data with ARIMA and Prophet</title>
       <link>/posts/projects/classical_machine_learning_projects/solar_irradiance/</link>
       <pubDate>Sun, 05 Apr 2020 17:27:10 +0200</pubDate>
       
       <guid>/posts/projects/classical_machine_learning_projects/solar_irradiance/</guid>
+      <description>Github link</description>
+    </item>
+    
+    <item>
+      <title>Predicting Likely Home and Work Locations given GPS Coordinates of a person using DBSCAN Clustering</title>
+      <link>/posts/projects/classical_machine_learning_projects/likely_home_work/</link>
+      <pubDate>Sun, 05 Apr 2020 17:27:10 +0200</pubDate>
+      
+      <guid>/posts/projects/classical_machine_learning_projects/likely_home_work/</guid>
       <description>Github link</description>
     </item>
     
