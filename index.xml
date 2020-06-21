@@ -183,6 +183,24 @@ In addition to this, the system currently is also capable of Object Tracking, Ve
     </item>
     
     <item>
+      <title>n-Step Q-sigma Off-Policy based Reinforcement Learning for balancing a Pendulum</title>
+      <link>/posts/projects/reinforcement_learning/q_learn_pendulum/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/projects/reinforcement_learning/q_learn_pendulum/</guid>
+      <description>Github link</description>
+    </item>
+    
+    <item>
+      <title>n-Step SARSA On-Policy based Reinforcement Learning for balancing a Pendulum</title>
+      <link>/posts/projects/reinforcement_learning/sarsa_pendulum/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/projects/reinforcement_learning/sarsa_pendulum/</guid>
+      <description>Github link</description>
+    </item>
+    
+    <item>
       <title>Person Detection, Pose Prediction and Activity Recognition Pipeline</title>
       <link>/posts/projects/deep_learning_projects/pose_action_person/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
