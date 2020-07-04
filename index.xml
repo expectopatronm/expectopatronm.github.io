@@ -40,7 +40,7 @@ Master’s Thesis: Incremental Machine Learning using Support Vector Machines
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/intro_projects/</guid>
-      <description>Deep Learning  Person Detection, Pose Prediction and Activity Recognition Pipeline Transfer Learning with the Inception V3 Network on the Stanford 40 Actions Dataset Pose Estimation with High Resolution Neural Networks - A Top-Down Approach Pose Estimation with High Resolution Neural Networks - A Bottom-Up Approach Platooning Demonstrator with Deep Learning and Computer Vision Genetic Algorithms for Hyperparameter Tuning of Neural Networks  Classical Machine Learning  Predicting Likely Home and Work Locations given GPS Coordinates of a person using DBSCAN Clustering Activity Recognition given Accelerometer Data using a Linear Classifier Similarity Measures for Music Loop Projects in the Music Maker JAM Application Imputing Solar Irradiance Data with ARIMA and Prophet Text Clustering Amazon Product Reviews with K-Means Credit Card Fraud Detection with Isolation Forest Classifier Accelerated Incremental Machine Learning using Support Vector Machines  Natural Language Processing  Predict tags on StackOverflow with linear models Recognize named entities on Twitter with LSTMs Just One Context based Word Prediction using Word Embeddings Missing Word Prediction with BERT  Reinforcement Learning  Monte Carlo Policy based Reinforcement Learning using a Race Track Proximal Policy Optimization based Reinforcement Learning with a Four-Legged Spider n-Step SARSA On-Policy based Reinforcement Learning for balancing a Pendulum n-Step $Q(\sigma)$ Off-Policy based Reinforcement Learning for balancing a Pendulum  Computer Vision  Invisibility Cloaking  Algorithmic  Conways Game of Life with MPI Mandelbrot Fractals Accelerated with Numba Travelling Salesman  Embedded Systems  Intelligent Embedded Prosthetic Controller using Surface EMG Signal Acquistion Railway Track Tracing using Ultrasonics Automated Pill Dispencer  </description>
+      <description>Hybrid Learning  Industrial Defect Detection with Machine Learning Hackathon  Deep Learning  Person Detection, Pose Prediction and Activity Recognition Pipeline Transfer Learning with the Inception V3 Network on the Stanford 40 Actions Dataset Pose Estimation with High Resolution Neural Networks - A Top-Down Approach Pose Estimation with High Resolution Neural Networks - A Bottom-Up Approach Platooning Demonstrator with Deep Learning and Computer Vision Genetic Algorithms for Hyperparameter Tuning of Neural Networks  Classical Machine Learning  Predicting Likely Home and Work Locations given GPS Coordinates of a person using DBSCAN Clustering Activity Recognition given Accelerometer Data using a Linear Classifier Similarity Measures for Music Loop Projects in the Music Maker JAM Application Imputing Solar Irradiance Data with ARIMA and Prophet Text Clustering Amazon Product Reviews with K-Means Credit Card Fraud Detection with Isolation Forest Classifier Accelerated Incremental Machine Learning using Support Vector Machines  Natural Language Processing  Predict tags on StackOverflow with linear models Recognize named entities on Twitter with LSTMs Just One Context based Word Prediction using Word Embeddings Missing Word Prediction with BERT  Reinforcement Learning  Monte Carlo Policy based Reinforcement Learning using a Race Track Proximal Policy Optimization based Reinforcement Learning with a Four-Legged Spider n-Step SARSA On-Policy based Reinforcement Learning for balancing a Pendulum n-Step $Q(\sigma)$ Off-Policy based Reinforcement Learning for balancing a Pendulum  Computer Vision  Invisibility Cloaking  Algorithmic  Conways Game of Life with MPI Mandelbrot Fractals Accelerated with Numba Travelling Salesman  Embedded Systems  Intelligent Embedded Prosthetic Controller using Surface EMG Signal Acquistion Railway Track Tracing using Ultrasonics Automated Pill Dispencer  </description>
     </item>
     
     <item>
@@ -139,6 +139,17 @@ The 100 XML project files describe 100 songs which are consisting of parts. Each
       
       <guid>/posts/projects/classical_machine_learning_projects/likely_home_work/</guid>
       <description>Github link</description>
+    </item>
+    
+    <item>
+      <title>Industrial Defect Detection with Machine Learning Hackathon</title>
+      <link>/posts/projects/hybrid_learning_projects/rommelag_challeneg/</link>
+      <pubDate>Mon, 30 Mar 2020 23:00:00 +0000</pubDate>
+      
+      <guid>/posts/projects/hybrid_learning_projects/rommelag_challeneg/</guid>
+      <description>Github link
+Industrial Error Detection with Machine Learning Hackathon PionierGarage | Entrepreneurs. KIT
+2nd Place Winner The challenge is to find an efficient and exact process for error detection in the production line. You will get real data of a manufacturing defect of an operational manufacturing with the aim to classify it in the team binary (good / bad). The current approach is a visual inspection of the products by a camera.</description>
     </item>
     
     <item>
